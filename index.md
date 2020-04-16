@@ -1,6 +1,6 @@
  Sur cette page vous trouverez quelques-uns des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/).
 
-                <i> <center> **Djonga Trésor** </i>
+                Trésor DJONGA
  
 #### <center> <u>1.Analyse et traitrement des données massives</u>
  <i> <center>[Hadoop](hadoop.pdf)---
