@@ -1,13 +1,13 @@
  Sur cette page vous trouverez quelques-uns des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/).
 
-               <center> <strong> **Djonga Trésor** </strong>
+                <strong> <center> **Djonga Trésor** </strong>
  
 #### <center> <u>1.Analyse et traitrement des données massives</u>
- <i> <center>[Hadoop](hadoop.pdf)---</i>
-<center> <i>[Pyspark](TP1.py)---</i>
-<center> <i> [Pyspark](TP2.py)---</i>
-<center> <i>[SparkSQL](TP3.py)---</i>
-<center> <i>[Hive](TDhive.hql)</i>
+ <i> <center>[Hadoop](hadoop.pdf)---
+[Pyspark](TP1.py)---
+[Pyspark](TP2.py)---
+[SparkSQL](TP3.py)---
+[Hive](TDhive.hql)</i>
 
 #### <center> <u>2.Base de données Nosql</u>
 <center> <i>[MongoDB avec R](Rendu_Djonga.html)---</i>
