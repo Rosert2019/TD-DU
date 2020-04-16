@@ -1,6 +1,6 @@
- Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/).
+ Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/). Pour les fichiers qui contiennent le code python (.py) ou autre (.hql), vous pouvez l'ouvrir avec l'éditeur de texte ou python.
 
-               **Djonga Trésor**
+               *Djonga Trésor*
  
 #### <u>1.Analyse et traitrement des données massives</u>
 [Hadoop](hadoop.pdf)---
