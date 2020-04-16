@@ -1,30 +1,30 @@
  Sur cette page vous trouverez quelques-uns des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/).
 
-               <center> **Djonga Trésor**
+               <center> <strong> **Djonga Trésor** </strong>
  
 #### <center> <u>1.Analyse et traitrement des données massives</u>
-<center> [Hadoop](hadoop.pdf)---
-<center> [Pyspark](TP1.py)---
-<center> [Pyspark](TP2.py)---
-<center> [SparkSQL](TP3.py)---
-<center> [Hive](TDhive.hql)
+<center> <i> [Hadoop](hadoop.pdf)---</i>
+<center> <i>[Pyspark](TP1.py)---</i>
+<center> <i> [Pyspark](TP2.py)---</i>
+<center> <i>[SparkSQL](TP3.py)---</i>
+<center> <i>[Hive](TDhive.hql)</i>
 
 #### <center> <u>2.Base de données Nosql</u>
-<center> [MongoDB avec R](Rendu_Djonga.html)---
-<center> [Elastic search](Rendu_Djonga.html)
+<center> <i>[MongoDB avec R](Rendu_Djonga.html)---</i>
+<center> <i>[Elastic search](Rendu_Djonga.html)</i>
 
 #### <center> <u>3.Analyse des données en flux</u>
-<center> [Scikit-multiflow](Stream_DataMining.html)---
-<center> [Kafka avec python1](producer_empty.py)---
-<center> [Kafka avec python2](consumer_get-stations.py)
+<center> <i>[Scikit-multiflow](Stream_DataMining.html)---</i>
+<center> <i>[Kafka avec python1](producer_empty.py)---</i>
+<center> <i>[Kafka avec python2](consumer_get-stations.py)</i>
 
 #### <center> <u>4.Analyse des données en batch et passage à l'echelle</u>
-<center> [Machine learning avec R](TP_Fond_datamining.html)---
-<center> [Séries temporelles avec R](Time_series.html)---
-<center> [Random forest avec R](Random_forest.html)
+<center> <i>[Machine learning avec R](TP_Fond_datamining.html)---</i>
+<center> <i>[Séries temporelles avec R](Time_series.html)---</i>
+<center><i>[Random forest avec R](Random_forest.html)</i>
 
 #### <center> <u>5.Données textuelles-géolocalisées-Visualisation avec R</u>
-<center> [Préparation des données et visualisation: dplyr-ggplot2-leaflet](Rendu_Djonga_M4J12.html)---
-<center> [Textmining](tdTextminingDjonga.html)---
-<center> [Géocodage](code_tresor.R)---
-<center> [Graph Algorithm-Réseaux sociaux]()
+<center> <i>[Préparation des données et visualisation: dplyr-ggplot2-leaflet](Rendu_Djonga_M4J12.html)---</i>
+<center> <i>[Textmining](tdTextminingDjonga.html)---</i>
+<center> <i>[Géocodage](code_tresor.R)---</i>
+<center> <i>[Graph Algorithm-Réseaux sociaux]()</i>
