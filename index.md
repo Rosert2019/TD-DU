@@ -3,7 +3,7 @@
                *Djonga Trésor*
  
 #### <u>1.Analyse et traitrement des données massives</u>
-[Hadoop](hadoop.pdf)---
+[Hadoop](hadoop.pdf)---<a href="hadoop.pdf" class="image fit">
 [Pyspark](TP1.py)---
 [Pyspark](TP2.py)---
 [SparkSQL](TP3.py)---
