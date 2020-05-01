@@ -27,4 +27,5 @@
 [Préparation des données et visualisation: dplyr-ggplot2-leaflet](Rendu_Djonga_M4J12.html)---
 [Textmining](tdTextminingDjonga.html)---
 [Géocodage](code_tresor.R)---
+[Requêtes géolocalisées Pymongo](TP_Pymongo.html)---
 [Graph Algorithm-Réseaux sociaux]()
