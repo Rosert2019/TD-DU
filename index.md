@@ -1,4 +1,5 @@
 [center]  *Djonga Trésor* [/center]
+<div align="center">*Djonga Trésor*</div>
 [center]  *tresordjonga@mail.ru* [/center]
  
  Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/). Vous trouverez aussi d'autres projects personnels. Pour les fichiers qui contiennent le code python (.py) ou autre (.hql), vous pouvez l'ouvrir avec l'éditeur de texte ou python. Certains projets sont personnels.
