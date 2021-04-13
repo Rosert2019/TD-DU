@@ -1,8 +1,14 @@
- Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/). Pour les fichiers qui contiennent le code python (.py) ou autre (.hql), vous pouvez l'ouvrir avec l'éditeur de texte ou python. Certains projets sont personnels.
- Pour m'écrire : il20185@etu.parisdescartes.fr
-
-               *Djonga Trésor*
+<center>   *Djonga Trésor* </center>
  
+ Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/). Vous trouverez aussi d'autres projects personnels. Pour les fichiers qui contiennent le code python (.py) ou autre (.hql), vous pouvez l'ouvrir avec l'éditeur de texte ou python. Certains projets sont personnels.
+ Pour m'écrire : tresordjonga@mail.ru
+
+<center>AUTRES PROJETS</center>
+Un app developpé en R Shiny pour le suivi de la perfomance étudiante  [(https://tdjonga.shinyapps.io/OuladApp/](https://tdjonga.shinyapps.io/OuladApp/) ---
+[Analyse spatiale des activités minières en RD Congo](spatialDataAnalysis.html)
+
+<center>PROJETS DU BIG DATA </center>
+           
 #### <u>1.Analyse et traitrement des données massives</u>
 [Hadoop](tp-2020-Reponse.docx)
 [Pyspark](TP1.py)---
