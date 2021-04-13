@@ -6,7 +6,7 @@ Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j
 <div align="center">AUTRES PROJETS</div>
 <a href="https://tdjonga.shinyapps.io/OuladApp/">Une app developpée en R Shiny pour le suivi de la perfomance étudiante</a> <br />
 
-[Analyse spatiale des activités minières en RD Congo](spatial.html)
+[Analyse spatiale des activités minières en RD Congo](spatialDataAnalysis.html)
 
 <div align="center">PROJETS DU BIG DATA </div>
            
