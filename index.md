@@ -1,14 +1,13 @@
-<div align="center">*Djonga Trésor*</div>
-<div align="center">*tresordjonga@mail.ru*</div>
+<div align="center">Djonga Trésor</div>
+<div align="center">tresordjonga@mail.ru</div>
 
  Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/). Vous trouverez aussi d'autres projects personnels. Pour les fichiers qui contiennent le code python (.py) ou autre (.hql), vous pouvez l'ouvrir avec l'éditeur de texte ou python. Certains projets sont personnels.
  
-<div align="center">*AUTRES PROJETS*</div>
-Un app developpé en R Shiny pour le suivi de la perfomance étudiante  [(https://tdjonga.shinyapps.io/OuladApp/](https://tdjonga.shinyapps.io/OuladApp/)
-
+<div align="center">AUTRES PROJETS</div>
+<a href="https://tdjonga.shinyapps.io/OuladApp/">Un app developpé en R Shiny pour le suivi de la perfomance étudiante</a>
 [Analyse spatiale des activités minières en RD Congo](spatialDataAnalysis.html)
 
-<div align="center">*PROJETS DU BIG DATA </div>
+<div align="center">PROJETS DU BIG DATA </div>
            
 #### <u>1.Analyse et traitrement des données massives</u>
 [Hadoop](tp-2020-Reponse.docx)
