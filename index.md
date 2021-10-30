@@ -1,39 +1,19 @@
 <div align="center">Djonga Trésor</div>
 <div align="center">tresordjonga@mail.ru</div> <br />
+<div align="center">PORTFOLIO</div> <br />
 
-Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/). Vous trouverez aussi d'autres projects personnels. Pour les fichiers qui contiennent le code python (.py) ou autre (.hql), vous pouvez l'ouvrir avec l'éditeur de texte ou python. Certains projets sont personnels.
- 
-<div align="center">AUTRES PROJETS</div>
-<a href="https://tdjonga.shinyapps.io/OuladApp/">Une app developpée en R Shiny pour le suivi de la perfomance étudiante</a> <br />
-[Analyse spatiale des activités minières en RD Congo](spatialDataAnalysis.html)
+<p> You will find in this page my personal projects in Django and Python. </p>
+<p> All code sources are stored in Github. Click on the title to be redirect to the github repository.</p>
 
-<div align="center">PROJETS DU BIG DATA </div>
            
-#### <u>1.Analyse et traitrement des données massives</u>
-[Hadoop](tp-2020-Reponse.docx)
-[Pyspark](TP1.py)---
-[Pyspark](TP2.py)---
-[SparkSQL](TP3.py)---
-[Hive](TDhive.hql)
+#### <u>1.[Personal website](https://rosert1984.pythonanywhere.com/)</u>
+<p> This website has a full functionalities of an application: navigation, contact form, registration, authentication and users management</p>
 
-#### <u>2.Base de données Nosql</u>
-[MongoDB avec R](Rendu_Djonga.html)---
-[Elastic search](Rendu_Djonga.html)
+#### <u>2.[web based aggregator of french presses’ headlines](https://github.com/Rosert2019/Agregator_headlines)</u>
+<p>  This app collects for the last 24 hours the headlines from tweeter API for main french presses (Le monde, 20 minutes, les Echos,...) and goes into websites for images scrapping</p>
 
-#### <u>3.Analyse des données en flux</u>
-[Scikit-multiflow](Stream_DataMining.html)---
-[Kafka avec python1](producer_empty.py)---
-[Kafka avec python2](consumer_get-stations.py)
+#### <u>2.[Job portail](https://github.com/Rosert2019/jobs_portail)</u>
+<p>  The objective of project is to develop an online portal where recruiters can post job requirements, they can search for candidates. Candidates can search for job openings and apply. </p>
 
-#### <u>4.Analyse des données en batch et passage à l'echelle</u>
-[Machine learning avec R](TP_Fond_datamining.html)---
-[Séries temporelles avec R](Time_series.html)---
-[Random forest avec R](Random_forest.html)
-
-#### <u>5.Données textuelles-géolocalisées-Visualisation avec R</u>
-[Préparation des données et visualisation: dplyr-ggplot2-leaflet](Rendu_Djonga_M4J12.html)---
-[Textmining](tdTextminingDjonga.html)---
-[Géocodage](code_tresor.R)---
-[Requêtes géolocalisées Pymongo](TP_Pymongo.html)---
-[Graph Algorithm-Réseaux sociaux](projetDjongaGraph.html)---
-[Data quality analysis](TresorDjongaM5J2.html)
+#### <u>2.[Online booking platform](https://github.com/Rosert2019/disques_rent)</u>
+<p> A web application for disks rent. The application prints latest available disk so that visitors can directly make a booking. This app gives user friendly administrator interface for booking management and search functionality.</p>
