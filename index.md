@@ -10,7 +10,7 @@
 #### <u>1. [Personal website](https://rosert1984.pythonanywhere.com/)</u>
 <p> This website has a full functionalities of an application: navigation, contact form, registration, authentication and users management</p>
 
-#### <u>2. [web based aggregator of french presses’ headlines](https://github.com/Rosert2019/Agregator_headlines)</u>
+#### <u>2. [Web based aggregator of french presses’ headlines](https://github.com/Rosert2019/Agregator_headlines)</u>
 <p>  This app collects for the last 24 hours the headlines from tweeter API for main french presses (Le monde, 20 minutes, les Echos,...) and goes into websites for images scrapping</p>
 
 #### <u>2. [Job portail](https://github.com/Rosert2019/jobs_portail)</u>
