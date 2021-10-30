@@ -1,6 +1,7 @@
 <div align="center">Djonga Trésor</div>
 <div align="center">tresordjonga@mail.ru</div> 
 <div align="center">PORTFOLIO</div> <br />
+<hr>
 
 <p> You will find in this page my personal projects in Django and Python. </p>
 <p> All code sources are stored in Github. Click on the title to be redirect to the github repository.</p>
