@@ -20,4 +20,7 @@
      <li><a href="https://github.com/Rosert2019/disques_rent"><strong>Online booking platform</strong></a>
       <p> A web application for disks rent. The application prints latest available disk so that visitors can directly make a booking. This app gives user friendly administrator interface for booking management and search functionality.</p>
   </li>
+  <li><a href="https://github.com/Rosert2019/centrica"><strong>A modular python code for  Scriping google qearch.</strong></a>
+      <p> Package used: Beautifulsoup, requests and pytest (Fixtures were used to avoid to reuse codes) for testing.</p>
+  </li>
 </ol>
