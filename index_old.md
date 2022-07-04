@@ -3,7 +3,7 @@
 <div align="center">PORTFOLIO</div> <br />
 <hr>
 
-<p> You will find in this page my personal projects in Django and Python. </p>
+<p> You will find in this page my personal projects in Django, Python and basique PHP 5. </p>
 <p> All code sources are stored in Github. Click on the title to be redirect to the github repository.</p>
 
 <ol>
@@ -21,6 +21,10 @@
       <p> A web application for disks rent. The application prints latest available disk so that visitors can directly make a booking. This app gives user friendly administrator interface for booking management and search functionality.</p>
   </li>
   
+
+     <li><a href=""><strong>a PHP & MySQL CRUD Database App for employees for a company</strong></a>
+      <p> The app is about to add a new employee (create), view a list of employees (read), change an employee's salary (update) or remove a fired employee from the system (delete) MYSQL.</p>
+  </li>
   
   <li><a href="https://github.com/Rosert2019/centrica"><strong>A modular python code for  Scriping google qearch.</strong></a>
       <p> Package used: Beautifulsoup, requests and pytest (Fixtures were used to avoid to reuse codes) for testing.</p>
