@@ -9,7 +9,7 @@
 
  <ol>
   <li><a href="https://tdjonga.shinyapps.io/Mpox/"><strong>MPOX</strong></a>
-      <p> This website has a full functionalities of an application: navigation, contact form, registration, authentication and users management.</p>
+      <p> A visualization of the main indicators for monitoring the evolution of the MPOX epidemic in Congo.</p>
   </li>
    <li><a href="https://tdjonga.shinyapps.io/Financial/"><strong>Financial</strong></a>
       <p>This app collects for the last 24 hours the headlines from tweeter API for main french presses (Le monde, 20 minutes, les Echos,...) and goes into websites for images scrapping.</p>
