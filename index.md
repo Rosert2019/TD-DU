@@ -12,7 +12,7 @@
       <p> A visualization of the main indicators for monitoring the evolution of the MPOX epidemic in Congo.</p>
   </li>
    <li><a href="https://tdjonga.shinyapps.io/Financial/"><strong>Financial</strong></a>
-      <p>This app collects for the last 24 hours the headlines from tweeter API for main french presses (Le monde, 20 minutes, les Echos,...) and goes into websites for images scrapping.</p>
+      <p>An example of a report comparing revenue and sales over several years by product and by category.</p>
   </li>
      <li><a href="https://tdjonga.shinyapps.io/HR_Analytics/"><strong>HR Analytics</strong></a>
        <p>  The objective of project is to develop an online portal where recruiters can post job requirements, they can search for candidates. Candidates can search for job openings and apply. </p>
