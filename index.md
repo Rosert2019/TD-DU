@@ -1,39 +1,25 @@
 <div align="center">Djonga Trésor</div>
-<div align="center">tresordjonga@mail.ru</div> <br />
+<div align="center">tresordjonga@mail.ru</div> 
+<div align="center">R Shiny PORTFOLIO</div> <br />
+<hr>
 
-Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à [l'Université de Paris](https://u-paris.fr/) pour valider mon [diplôme d'Université Analyste Big Data](https://www.iut.parisdescartes.fr/metiers-de-la-data/diplome-duniversite-analyste-big-data/). Vous trouverez aussi d'autres projects personnels. Pour les fichiers qui contiennent le code python (.py) ou autre (.hql), vous pouvez l'ouvrir avec l'éditeur de texte ou python. Certains projets sont personnels.
+<p> You will find in this page some applications for data vizualization. Dplyr and ggplot are the main package in the backend. Other package were also used sf, DT, scales, RSQLite,...</p>
+<p> For some apps, the source code are stored in Github.</p>s.
  
-<div align="center">AUTRES PROJETS</div>
-<a href="https://tdjonga.shinyapps.io/OuladApp/">Une app developpée en R Shiny pour le suivi de la perfomance étudiante</a> <br />
-[Analyse spatiale des activités minières en RD Congo](spatialDataAnalysis.html)
 
-<div align="center">PROJETS DU BIG DATA </div>
-           
-#### <u>1.Analyse et traitrement des données massives</u>
-[Hadoop](tp-2020-Reponse.docx)
-[Pyspark](TP1.py)---
-[Pyspark](TP2.py)---
-[SparkSQL](TP3.py)---
-[Hive](TDhive.hql)
-
-#### <u>2.Base de données Nosql</u>
-[MongoDB avec R](Rendu_Djonga.html)---
-[Elastic search](Rendu_Djonga.html)
-
-#### <u>3.Analyse des données en flux</u>
-[Scikit-multiflow](Stream_DataMining.html)---
-[Kafka avec python1](producer_empty.py)---
-[Kafka avec python2](consumer_get-stations.py)
-
-#### <u>4.Analyse des données en batch et passage à l'echelle</u>
-[Machine learning avec R](TP_Fond_datamining.html)---
-[Séries temporelles avec R](Time_series.html)---
-[Random forest avec R](Random_forest.html)
-
-#### <u>5.Données textuelles-géolocalisées-Visualisation avec R</u>
-[Préparation des données et visualisation: dplyr-ggplot2-leaflet](Rendu_Djonga_M4J12.html)---
-[Textmining](tdTextminingDjonga.html)---
-[Géocodage](code_tresor.R)---
-[Requêtes géolocalisées Pymongo](TP_Pymongo.html)---
-[Graph Algorithm-Réseaux sociaux](projetDjongaGraph.html)---
-[Data quality analysis](TresorDjongaM5J2.html)
+ <ol>
+  <li><a href="https://tdjonga.shinyapps.io/Mpox/"><strong>MPOX</strong></a>
+      <p> This website has a full functionalities of an application: navigation, contact form, registration, authentication and users management.</p>
+  </li>
+   <li><a https://tdjonga.shinyapps.io/Financial/"><strong>Financial</strong></a>
+      <p>This app collects for the last 24 hours the headlines from tweeter API for main french presses (Le monde, 20 minutes, les Echos,...) and goes into websites for images scrapping.</p>
+  </li>
+     <li><a href="https://tdjonga.shinyapps.io/HR_Analytics/"><strong>HR Analytics</strong></a>
+       <p>  The objective of project is to develop an online portal where recruiters can post job requirements, they can search for candidates. Candidates can search for job openings and apply. </p>
+  </li>
+  
+   <li><a href="https://tdjonga.shinyapps.io/ProjetDRCMining/"><strong>Spatial analytics of  artisanal mining sites</strong></a>
+      <p> A web application for disks rent. The application prints latest available disk so that visitors can directly make a booking. This app gives user friendly administrator interface for booking management and search functionality.</p>
+  </li>
+  
+ </ol>
