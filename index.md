@@ -19,7 +19,7 @@
   </li>
   
    <li><a href="https://tdjonga.shinyapps.io/ProjetDRCMining/"><strong>Spatial analytics of  artisanal mining sites</strong></a>
-      <p> A web application for disks rent. The application prints latest available disk so that visitors can directly make a booking. This app gives user friendly administrator interface for booking management and search functionality.</p>
+      <p> The main methods of spatial analysis are briefly introduced before their applications with data from mining sites in the Democratic Republic of Congo..</p>
   </li>
   
  </ol>
