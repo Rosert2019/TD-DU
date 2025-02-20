@@ -4,7 +4,7 @@
 <hr>
 
 <p> You will find in this page some applications for data vizualization. Dplyr and ggplot are the main package in the backend. Other package were also used sf, DT, scales, RSQLite,...</p>
-<p> For some apps, the source code are stored in Github.</p>s.
+<p> For some apps, the source code are stored in Github.</p>
  
 
  <ol>
@@ -15,7 +15,7 @@
       <p>An example of a report comparing revenue and sales over several years by product and by category.</p>
   </li>
      <li><a href="https://tdjonga.shinyapps.io/HR_Analytics/"><strong>HR Analytics</strong></a>
-       <p>  The objective of project is to develop an online portal where recruiters can post job requirements, they can search for candidates. Candidates can search for job openings and apply. </p>
+       <p>  This report presents the steps for creating a dashboard to analyze HR data: Processing a file from an SIRH database, the main indicators on the general view, payroll and absenteeism.. </p>
   </li>
   
    <li><a href="https://tdjonga.shinyapps.io/ProjetDRCMining/"><strong>Spatial analytics of  artisanal mining sites</strong></a>
