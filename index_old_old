@@ -1,0 +1,23 @@
+Djonga Trésor
+tresordjonga@mail.ru
+
+Sur cette page vous trouverez quelques un des projets ou travaux pratiques que j'ai réalisés durant mes études à l'Université de Paris pour valider mon diplôme d'Université Analyste Big Data. Vous trouverez aussi d'autres projects personnels. Pour les fichiers qui contiennent le code python (.py) ou autre (.hql), vous pouvez l'ouvrir avec l'éditeur de texte ou python. Certains projets sont personnels.
+
+AUTRES PROJETS
+Une app developpée en R Shiny pour le suivi de la perfomance étudiante
+[Analyse spatiale des activités minières en RD Congo](spatialDataAnalysis.html)
+PROJETS DU BIG DATA
+1.Analyse et traitrement des données massives
+Hadoop Pyspark--- Pyspark--- SparkSQL--- Hive
+
+2.Base de données Nosql
+MongoDB avec R--- Elastic search
+
+3.Analyse des données en flux
+Scikit-multiflow--- Kafka avec python1--- Kafka avec python2
+
+4.Analyse des données en batch et passage à l'echelle
+Machine learning avec R--- Séries temporelles avec R--- Random forest avec R
+
+5.Données textuelles-géolocalisées-Visualisation avec R
+Préparation des données et visualisation: dplyr-ggplot2-leaflet--- Textmining--- Géocodage--- Requêtes géolocalisées Pymongo--- Graph Algorithm-Réseaux sociaux--- Data quality analysis
